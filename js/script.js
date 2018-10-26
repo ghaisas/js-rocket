@@ -1,6 +1,6 @@
 var scooter = {
 	make: 'access',
-	colour: 'white',
+	color: 'white',
 	isTurnedOn: false,
 	seats: ['seat1','seat2'],
 
